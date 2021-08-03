@@ -1,8 +1,6 @@
 .transactionHistory {
   width: 500px;
   margin: 50px;
-  /* box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
-  border-radius: 4px; */
 }
 
 .title {
@@ -13,7 +11,6 @@
 
 .string {
   height: 50px;
-  /* border: 1px solid black; */
   text-align: center;
 }
 
@@ -25,7 +22,6 @@ table {
   border-collapse: collapse;
   border-radius: 4px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
-  /* border: 1px solid grey; */
 }
 td,
 th {
